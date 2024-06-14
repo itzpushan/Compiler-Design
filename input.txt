@@ -1,0 +1,9 @@
+
+program main(input, output);
+    var a, b: integer;
+    begin
+		a := 30;
+		b := 3;
+        a := a / b;
+		write(a)
+    end.

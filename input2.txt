@@ -1,0 +1,10 @@
+
+program main(input, output);
+    var a, b: integer;
+    begin
+		a :=2;
+		b := 1;
+        a := a * a + b;
+        a := a*2 + 1;
+		write(a)
+    end.
